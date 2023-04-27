@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="talentozrds-live-1" xml:space="preserve">
+    <value>/deb3Va7j1yGUY7on3xHYivIuX8sIsGGXMVhXUnYeqRCFbHlrmLOCh7/bL/X6lIyPTmJt40l1DP6+www7dAvWerDObuHaRdXA+cUKvH+toZJmhnbB0nYE8b1qkcX8Vv/ECwMLhaHlZU8CYlowARxT/PazfQIyz4rVuMfJ4PF1JGCWZmAdtCon79WCdJmN+q+WfnhPdFn7Lhf1A+kw4pJ1L3pg56HOkiakK3ISTSZIK25UjGSCuG83F1GFfROsNPkgZOFxMu2QrefNExDmLfHo9LdJgnLyTbCHAkeI7jEZJ0B/CExcHAA1i8mEr0k3pyIli5HiPlxg5bfhQslX1l8Cw==</value>
+  </data>
+  <data name="talentozrds-live-2" xml:space="preserve">
+    <value>/deb3Va7j1yGUY7on3xHYivIuX8sIsGGXMVhXUnYeqRCFbHlrmLOCh7/bL/X6lIyiRSA0jTuUTJsKyOsQKUYnL642hLd46dxjrzG4APCVCpwGCg5vDJW9Cs9PaWgQWho73PONdXU2r+ocPJR1zpZiJrIzhyZaCrr19zmMbT1U+DHKM4JbiuoSmYboGlqMAzXUkISWuiEVkGuH3F/QQfNVwqeSLqSdTt5e/Y9W1D6rDupjnkBBiBcMWBB7qBoCglXtx0ydIi0t2k3sV1kODfNi49OylTVEk/Ji3L0jtNZZgcRwUlq1a+FeQ6ya+4QX845D2rVQkS8GMzSp9P69q68ow==</value>
+  </data>
+  <data name="talentozrds-live-3" xml:space="preserve">
+    <value>/deb3Va7j1yGUY7on3xHYivIuX8sIsGGXMVhXUnYeqRCFbHlrmLOCh7/bL/X6lIyNWnaX0Z2NU34R7Ebq4GokqSdW/WtmhmUNJm448ClxGx+EgeD2r6oZufPqZ6n768SnyC0F9H7cVKWF6Uu6W/asFvTtW+g65nn19gLp+4LJWWFUGnno5IqzIczyGPt7okS+oY/emGgJQNy5A8KflpBLYs84qRn0u6chsl3IPCDpgPKWVP4m971zOdwy5y+tqeslcNqSnbd0RasDQ20qMX28ex6Qf/HGlnJ972Ob04lfflZ8SeDuttKcSeInIQCRpt6nYOI+Ekrnm0/ELM5+O1ZmA==</value>
+  </data>
+  <data name="talentozrds-live-4" xml:space="preserve">
+    <value>/deb3Va7j1yGUY7on3xHYivIuX8sIsGGXMVhXUnYeqRCFbHlrmLOCh7/bL/X6lIyXjsorQoiTT8xJASWykd0RJuLTyFqNCDNdBRlw6sPZ5Kj+UA3wzv/zcIqQ0mAEDwitUkGxrNM9TLsmzMV8xCMAqyZvF7Rv5AoC4+wvS+QHppYLkbXeEItH3Cy4IkErHsic1SuJiDyICm9PCXjF9fFagKXvaAUi6imOcrr8es0CWijcM/Ee24FPiGax42f25/7gjuUtUEh1Q15e9I+4ZwdcfQp3KyrNZWUUyJNaJhoqqzNupEZK8bqz1C3Z6RwL08BhXGCLApY44Eb9Buhz4O5vL2ToHEbInDruNVOqpqEHio=</value>
+  </data>
+  <data name="talentozrds-live-5" xml:space="preserve">
+    <value>/deb3Va7j1yGUY7on3xHYivIuX8sIsGGXMVhXUnYeqRCFbHlrmLOCh7/bL/X6lIygz42PFFVez8AhLkLOpiAZB8FVl4hxgmnZcKJoKDGzsVJSpxyHSvx3R1BCWXd85MaytpPHQu4yJiFE9FT+f84M4T9uj8zlJyDWEUhOM/7bdNI03eeGyjcwuiW/hrfOkOTBYkkksBN31z61PzDYIgltV4k3Q2HCR5tIyUL9Ta+kPik3FVVRowJg5kNvicOOGzdzQYU9Xy7QhG/mw/dvjkACrizbzvp1Zb/0DmJQJebbKbuQKssDMuvzFwjV+N934/HG0HUYyDDZgWUZtZK7rWJwCs0jO1SSafxf05eKOE+OQQpT4e9DFOzDOsjsb8EBvw9xpD39Sg3JIC/VO0/Tp8dKDCMksV6n3JfbrIYu5do957pRIltTPmgmtgJNC2GQnRw</value>
+  </data>
+  <data name="talentozrds-live-6" xml:space="preserve">
+    <value>/deb3Va7j1yGUY7on3xHYivIuX8sIsGGXMVhXUnYeqRCFbHlrmLOCh7/bL/X6lIyEEq9Hz8RJ4RaN5rcCaGXkC1hgcmPwgo4tRcwZB4+h3aR4/HetkCKGyLvX+wywFlWYN/V0gjYYnPs+leig9wC/90OfY7h2OCN17ab05UOdDkDG9aIbVIzAC7As0oFRvN4AGWKy43WZ3W453lN+/6gvqvDxTTn4X/V8bm+97PhqUmlba1CC2sjjn1O8Siv68NfFoL9cAw8mZU76TMn8usNR0K+xbbj44tAfSQzK+8umDEoQCEApSfRrzn0TQTq8pU1wFVhd7bSfou2Ig7UqgHnYeHRcRKs0jFMyv0+dHYN+5tWXjXcYoJ9xCICqeRQtAz4bKnoHs17c3Qm7NeTDpHo7GOAybKuMHNgK8qU7IUVJ88=</value>
+  </data>
+  <data name="talentozrdsstage" xml:space="preserve">
+    <value>/deb3Va7j1yGUY7on3xHYivIuX8sIsGGXMVhXUnYeqThnshuObDuerOPEq9Onc4mbtmRQrl6uUc6v4vNFiZLGxGWyrptgsT8xUTMySYwLsxMSes29IO82tCx0xkTLqpnIc9UbgpDhC7KY+qrhhq9DOrWIwaULmfhDJ1xJ6VgfiDskkQ73GAe+RLQuUFNNOLNufFhxYaUW0qbT8I4bbrLPzLT+ZBLbazcTcXmXQm7xAu5K22eCCJZcFndxiLpF7J5fGNSxgdmEm20mQITCDEdIQ7dyW1za5BtLuXl5tQmCZ52DJ4YYZioJIRqIlzez7VV</value>
+  </data>
+</root>
